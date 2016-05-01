@@ -1,0 +1,16 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication3"
+        xmlns:WpfViewers="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers" x:Class="WpfApplication3.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="908.03" Width="1298.668" Loaded="Window_Loaded" Closed="Window_Closed">
+    <Grid Height="894" Margin="0,0,3.333,0" VerticalAlignment="Top">
+        <Image x:Name="imageCamera" HorizontalAlignment="Left" Height="482" Margin="10,0,0,402" VerticalAlignment="Bottom" Width="758"/>
+        <Label x:Name="labelTracked" Content="可以开始游戏" HorizontalAlignment="Left" Margin="773,10,0,0" VerticalAlignment="Top" Height="123" Width="424" FontSize="64" FontWeight="Bold"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="823,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="238" Width="424" FontSize="26.667"><Run Text="                 "/><Run FontSize="32" Text="操作提示"/><LineBreak/><Run FontSize="32" Text="前进：原地踏步"/><LineBreak/><Run FontSize="32" Text="转弯：原地左转或右转"/><LineBreak/><Run FontSize="32" Text="后退：左手"/><Run FontSize="32" Text="举高"/><LineBreak/><Run FontSize="32" Text="发射炮弹：右手"/><Run FontSize="32" Text="举高"/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+    </Grid>
+
+</Window>

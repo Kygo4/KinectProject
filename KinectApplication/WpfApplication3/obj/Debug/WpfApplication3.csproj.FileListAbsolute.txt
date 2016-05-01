@@ -1,0 +1,116 @@
+D:\kinect project\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\kinect project\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Kinect.dll
+D:\kinect project\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\kinect project\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\kinect project\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\kinect project\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+D:\kinect project\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\kinect project\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+D:\kinect project\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+D:\kinect project\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\kinect project\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\kinect project\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\kinect project\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\obj\Debug\App.g.cs
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\bin\Debug\Microsoft.Kinect.dll
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\bin\Debug\Microsoft.Speech.dll
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\bin\Debug\Microsoft.Kinect.xml
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\obj\Debug\MainWindow.baml
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\kinect project\WpfApplication3 - 副本\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\bin\Debug\Microsoft.Kinect.dll
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\bin\Debug\Microsoft.Speech.dll
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\bin\Debug\Microsoft.Kinect.xml
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\obj\Debug\App.g.cs
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\obj\Debug\MainWindow.baml
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\obj\Debug\WpfApplication3.mappingKeyboard.resources
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\kinect project\WpfApplication3 - 副本 - 副本\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\bin\Debug\Microsoft.Kinect.dll
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\bin\Debug\Microsoft.Speech.dll
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\bin\Debug\Microsoft.Kinect.xml
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\obj\Debug\App.g.cs
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\obj\Debug\MainWindow.baml
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\obj\Debug\WpfApplication3.mappingKeyboard.resources
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\bin\Debug\Microsoft.Kinect.dll
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\bin\Debug\Microsoft.Speech.dll
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\bin\Debug\Microsoft.Kinect.xml
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\obj\Debug\App.g.cs
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\obj\Debug\MainWindow.baml
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\obj\Debug\WpfApplication3.mappingKeyboard.resources
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本 - 副本 (2)\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本 - 副本 (2)\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3 - 副本 - 副本 - 肖 1 - 副本 - 副本 (2)\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\bin\Debug\Microsoft.Kinect.dll
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\bin\Debug\Microsoft.Speech.dll
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\bin\Debug\Microsoft.Kinect.xml
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\obj\Debug\App.g.cs
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\obj\Debug\MainWindow.baml
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\obj\Debug\WpfApplication3.mappingKeyboard.resources
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\kinect project\WpfApplication3 - 最终版本\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
