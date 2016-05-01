@@ -1,0 +1,3 @@
+# KinectProject
+KinectAPP使Kinect体感设备识别并捕捉人的具体动作并对动作进行键盘映射。
+可以对人的出现进行检测并发出警报。
